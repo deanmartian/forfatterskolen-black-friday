@@ -317,7 +317,7 @@ export default function Home() {
               'Flere tilbakemeldinger fra erfaren redaktør (70 000 ord, fordelt på 4 innleveringer)',
               'Live coaching med din personlige redaktør (30 min samtale)',
               'Superbonus! Du er garantert en utgivelse i løpet av dette året!',
-              'Bonus 1: Personlig skrivestrener gjennom hele kursåret.',
+              'Bonus 1: Personlig skrivetrener gjennom hele kursåret.',
               'Bonus 2! Etter endt kurs hjelper vi deg mot en utgivelse',
             ]}
             buttonText="Årskurs med kroner 6000,- i rabatt"
