@@ -39,9 +39,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Forfatterskolen" }],
   icons: {
-    icon: '/logo-icon.png',
-    shortcut: '/logo-icon.png',
-    apple: '/logo-icon.png',
+    icon: '/favicon.png',
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
   },
   openGraph: {
     title: "BLACK FRIDAY SALG - Opptil 58% rabatt | Forfatterskolen",
