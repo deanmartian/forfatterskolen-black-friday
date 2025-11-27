@@ -383,7 +383,7 @@ export default function Home() {
               { title: 'DIKTKURS med Gro Dahle', discount: '3000,-', link: 'https://www.forfatterskolen.no/course/57' },
               { title: 'SKRIV DITT LIV med Kjersti Wold', discount: '3000,-', link: 'https://www.forfatterskolen.no/course/50' },
               { title: 'SAKPROSAKURS med Kjersti Wold', discount: '2000,-', link: 'https://www.forfatterskolen.no/course/49' },
-              { title: 'SKRIV FOR FILM & TV med Kjersti Steinsbo', discount: '5000,-', link: 'https://www.forfatterskolen.no/course/56' },
+              { title: 'SKRIV FOR FILM & TV med Kjersti Steinsbø', discount: '5000,-', link: 'https://www.forfatterskolen.no/course/56' },
               { title: 'SERIEROMANKURS med Ida Skjeldbakken og Kaja Nyhus', discount: '5000,-', link: 'https://www.forfatterskolen.no/course/44' },
               { title: 'KRIMKURS med Tom Egeland', discount: '4000,-', link: 'https://www.forfatterskolen.no/course/37' },
             ].map((course, idx) => (
