@@ -502,7 +502,7 @@ function CourseCard({
       </div>
 
       <CardHeader className={isMostPopular ? 'pt-16' : ''}>
-        <CardTitle className="text-2xl md:text-3xl lg:text-4xl font-bold mb-2 break-words">{title}</CardTitle>
+        <CardTitle className="text-2xl md:text-3xl lg:text-4xl font-bold mb-2 break-words text-white">{title}</CardTitle>
         <CardDescription className="text-base md:text-lg">
           Oppstart: <span className="text-amber-400 font-semibold">{startDate}</span>
         </CardDescription>
