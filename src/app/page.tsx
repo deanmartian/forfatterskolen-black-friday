@@ -357,7 +357,6 @@ export default function Home() {
               '10 kursmoduler med skriftlig materiale og tilhørende videoer',
               '10 kurswebinarer med ulike skrivelærere',
               'Live webinarer med noen av landets beste skrivelærere',
-              'Lærere: Gro Dahle, Bjarte Breiteig, Trude Marstein og Pedro Carmona-Alvarez',
               'Tilgang på et rikt webinar-arkiv med hundrevis av opptak',
               'Bonus! Et 4 timers skrivekurs med Tom Egeland!',
             ]}
